@@ -1,0 +1,7 @@
+subir codigo efren_usb.ino a attiny85
+
+conectar dispositivo a victima
+
+esperar 20 segundos
+
+ejecutar el archivo shell.sh
