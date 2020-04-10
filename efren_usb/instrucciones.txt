@@ -6,4 +6,4 @@ esperar 20 segundos
 
 ejecutar el archivo shell.sh
 
-gracias! ;3
+gracias! ;3!
